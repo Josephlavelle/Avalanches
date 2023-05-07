@@ -1,10 +1,9 @@
-# Avalanches
+# Weather Aggregation
 
 
-Project to help assess avalanche risk in specific locations
-
-|        | TODO | In Progress | Review | Done |
-|--------|------|-------------|--------|------|
-| Joe    |      |             |        |      |
-| Justin |      |             |        |      |
-|        |      |             |        |      |
+Project to optimize weather prediction based on aggregating historical results
+|        | TODO | In Progress                                           | Review | Done |
+|--------|------|-------------------------------------------------------|--------|------|
+| Joe    |      | Find 3 APIs, Read prediction data and record to file  |        |      |
+| Justin |      |                                                       |        |      |
+|        |      |                                                       |        |      |
